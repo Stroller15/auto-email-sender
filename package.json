@@ -1,0 +1,19 @@
+{
+  "name": "auto-email-sender",
+  "version": "1.0.0",
+  "description": "auto email sender script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "script"
+  ],
+  "author": "shubham verma <shubham.enggg@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "nodemailer": "^6.10.0",
+    "xlsx": "^0.18.5"
+  }
+}
